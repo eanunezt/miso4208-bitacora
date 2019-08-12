@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-publishable-template",
+  "name": "miso4208-bitacora",
   "version": "1.0.0",
   "description": "A template for publishing a Gitboo",
   "main": "gulpfile.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rebeccapeltz/gitbook-publishable-template.git"
+    "url": "git+https://github.com/eanunezt/miso4208-bitacora.git"
   },
-  "author": "Becky Peltz",
+  "author": "Edgar Núñez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rebeccapeltz/gitbook-publishable-template/issues"
+    "url": "hhttps://github.com/eanunezt/issues"
   },
   "devDependencies": {
     "child_process": "^1.0.2",
@@ -21,5 +21,5 @@
     "gulp": "4.0.0",
     "gulp-load-plugins": "^1.5.0"
   },
-  "homepage": "https://github.com/rebeccapeltz/gitbook-publishable-tempalte#readme"
+  "homepage": "https://github.com/eanunezt#readme"
 }
